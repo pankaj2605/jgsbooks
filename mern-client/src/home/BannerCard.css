@@ -16,21 +16,21 @@
 }
 
 .banner .swiper-slide:nth-child(1n) {
-  background-image:url('src/assets/banner-books/book2.png');
+  background-image:url('https://i.postimg.cc/B6GYSJnK/book1.png');
 }
 
 .banner .swiper-slide:nth-child(2n) {
-    background-image:url('src/assets/banner-books/book1.png');
+    background-image:url('https://i.postimg.cc/MTW73HGd/book2.png');
 }
 
 .banner .swiper-slide:nth-child(3n) {
-    background-image:url('src/assets/banner-books/book3.png');
+    background-image:url('https://i.postimg.cc/DZBq9hJF/book3.png');
 }
 
 .banner .swiper-slide:nth-child(4n) {
-    background-image:url('src/assets/banner-books/book4.png');
+    background-image:url('https://i.postimg.cc/1XdDzKrj/book4.png');
 }
 
 .banner .swiper-slide:nth-child(5n) {
-    background-image:url('src/assets/banner-books/book5.png');
+    background-image:url('https://i.postimg.cc/J00bmFZX/book5.png');
 }
