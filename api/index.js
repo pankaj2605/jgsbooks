@@ -46,7 +46,7 @@ app.listen(port, () => {
 app.use("/api/book",bookRouter);
 
 app.get('*',(res,req)=>{
-  res.sendFile(path.join(__dirname,'mern-client','dist','index.html'));
+  res.sendfile(path.join(__dirname,'mern-client','dist','index.html'));
 })
 
 app.use((err,req,res,next)=>{
